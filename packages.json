@@ -1,0 +1,14 @@
+[
+  {
+    "package": "fitnmr",
+    "url": "https://github.com/smith-group/fitnmr"
+  },
+  {
+    "package": "deeppicker",
+    "url": "https://github.com/smith-group/deeppicker"
+  },
+  {
+    "package": "sparseLM",
+    "url": "https://github.com/smith-group/sparseLM"
+  }
+]
